@@ -1,0 +1,2 @@
+# Project_Analysis_of_important_factors_in_the_incidence_of_heart_disease_and_prediction_model
+LightGBM, Optuna, Smote, robustScaler,  ordinalEncoding, stratifiedKFold_crossValidation
