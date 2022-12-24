@@ -6,6 +6,11 @@ This project was conducted in the fall semester of Pukyong National University's
 
 Used LightGBM, Optuna, Smote, robustScaler, ordinalEncoding, stratifiedKFold crossValidation
 
+
+## References
+
+- [https://github.com/optuna/optuna](https://github.com/optuna/optuna)
+
 About Dataset in Kaggle - Key Indicators of Heart Disease
 
-https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+- [https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
