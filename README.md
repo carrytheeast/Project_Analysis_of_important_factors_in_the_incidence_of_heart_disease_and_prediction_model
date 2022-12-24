@@ -4,7 +4,7 @@ This project was conducted in the fall semester of Pukyong National University's
 
 ![image](https://user-images.githubusercontent.com/98952505/209425901-61914fe9-296b-44ab-a717-834d9cd0bca4.png)
 
-LightGBM, Optuna, Smote, robustScaler, ordinalEncoding, stratifiedKFold crossValidation
+Used LightGBM, Optuna, Smote, robustScaler, ordinalEncoding, stratifiedKFold crossValidation
 
 About Dataset in Kaggle - Key Indicators of Heart Disease
 
