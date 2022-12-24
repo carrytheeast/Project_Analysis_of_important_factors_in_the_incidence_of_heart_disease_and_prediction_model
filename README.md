@@ -10,6 +10,7 @@ Used LightGBM, Optuna, Smote, robustScaler, ordinalEncoding, stratifiedKFold cro
 ## References
 
 - [https://github.com/optuna/optuna](https://github.com/optuna/optuna)
+- [https://github.com/kaggler-tv](https://github.com/kaggler-tv)
 
 About Dataset in Kaggle - Key Indicators of Heart Disease
 
