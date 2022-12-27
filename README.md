@@ -1,4 +1,4 @@
-Project in 2022(11.09 ~ 11.11) - Analysis of important factors in the incidence of heart disease and prediction model
+Project in 2022(11.09 ~ 11.11) - Simple Model of important factors in the incidence of heart disease and prediction model
 
 This project was conducted in the fall semester of Pukyong National University's third year.
 
